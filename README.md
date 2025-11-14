@@ -33,4 +33,16 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
