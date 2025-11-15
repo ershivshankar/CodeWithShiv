@@ -12,6 +12,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ershivshankar/CodeWithShiv/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
 ## Union Find
 |  |
@@ -20,6 +21,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
