@@ -6,6 +6,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ershivshankar/CodeWithShiv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ershivshankar/CodeWithShiv/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
 ## Hash Table
@@ -39,6 +40,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ershivshankar/CodeWithShiv/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0202-happy-number) |
 ## String
 |  |
