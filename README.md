@@ -16,6 +16,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 | [0128-longest-consecutive-sequence](https://github.com/ershivshankar/CodeWithShiv/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ershivshankar/CodeWithShiv/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ershivshankar/CodeWithShiv/tree/master/0005-longest-palindromic-substring) |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -61,13 +64,16 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
