@@ -76,4 +76,20 @@ A well-structured collection of coding projects demonstrating strong problem-sol
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ershivshankar/CodeWithShiv/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ershivshankar/CodeWithShiv/tree/main/0692-top-k-frequent-words/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ershivshankar/CodeWithShiv/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ershivshankar/CodeWithShiv/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ershivshankar/CodeWithShiv/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ershivshankar/CodeWithShiv/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
